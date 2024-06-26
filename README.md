@@ -1,2 +1,2 @@
-# onyx-cdn.github.ia
+# onyx-cdn
 onyx-cdn-srv
